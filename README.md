@@ -4,7 +4,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=islamsayed0&color=brightgreen&abbreviated=true)
 
 ---
 
@@ -26,6 +26,22 @@
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+---
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=islamsayed0&show_icons=true&theme=blue" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamsayed0&layout=compact&theme=blue" alt="Top Languages" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamsayed0&theme=blue" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
