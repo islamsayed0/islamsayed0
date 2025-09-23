@@ -38,7 +38,9 @@
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=islamsayed0&layout=compact&theme=blue" alt="Top Languages" />
       <br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamsayed0&theme=blue" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=islamsayed0&theme=blue" alt="GitHub Streak" />
+</p>
     </td>
   </tr>
 </table>
