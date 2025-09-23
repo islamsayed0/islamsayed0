@@ -29,5 +29,4 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00FF00&lines=Welcome+to+Hacker+Game;Press+Start...)](https://git.io/typing-svg)
-
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
