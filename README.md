@@ -26,3 +26,8 @@
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+New&color=00FF00&lines=Welcome+to+Hacker+Game;Press+Start...)](https://git.io/typing-svg)
+
