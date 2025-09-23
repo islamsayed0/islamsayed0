@@ -4,6 +4,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen&abbreviated=true)
 
 ---
