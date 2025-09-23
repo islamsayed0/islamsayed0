@@ -4,11 +4,6 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
 
 ---
-
-## Tools & Technologies  
-
-![skills](https://camo.githubusercontent.com/03cae879cecd721fd134d602a4baebb2fa0b1e9d3431097e3d24dc474d2a2ffe/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d616c6c)
-
