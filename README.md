@@ -36,6 +36,9 @@
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
 
 ---
+## 💡 Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+---
 ## 📊 GitHub Stats
 
 <table>
