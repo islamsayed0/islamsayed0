@@ -14,6 +14,8 @@
   <img src="https://komarev.com/ghpvc/?username=islamsayed0&color=brightgreen&abbreviated=true" alt="Profile Views" />
 </p>
 
+![visitors](https://api.visitorbadge.io/api/visitors?path=islamsayed0&label=Visitors&countColor=%23263759&style=flat)
+
 ---
 
 ## 🚀 Technologies I Use  
